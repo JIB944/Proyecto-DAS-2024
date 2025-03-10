@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TiendaMinorista.Datos.TiendaMinorista.Datos;
+using TiendaMinorista.Datos;
 
 namespace TiendaMinorista.Datos
 {
