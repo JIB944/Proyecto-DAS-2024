@@ -10,3 +10,4 @@ C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinoris
 C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\refint\TiendaMinorista.Datos.dll
 C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.pdb
 C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\ref\TiendaMinorista.Datos.dll
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.sourcelink.json

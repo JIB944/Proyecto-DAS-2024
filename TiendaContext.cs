@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace TiendaMinorista.Datos
 {
     public class TiendaContext : DbContext
