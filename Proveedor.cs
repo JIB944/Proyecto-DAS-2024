@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace TiendaMinorista.Datos
 {
     public class Proveedor : Persona

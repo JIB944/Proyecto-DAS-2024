@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TiendaMinorista.Datos.TiendaMinorista.Datos;
 
 namespace TiendaMinorista.Datos
 {
@@ -11,5 +12,5 @@ namespace TiendaMinorista.Datos
         // Relación uno a muchos: un cliente puede tener varias facturas
         public List<Factura> Facturas { get; set; } = new List<Factura>();
     }
-
+   
 }
