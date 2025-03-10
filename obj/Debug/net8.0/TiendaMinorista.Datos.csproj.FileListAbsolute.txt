@@ -1,0 +1,12 @@
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.AssemblyInfoInputs.cache
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.AssemblyInfo.cs
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.csproj.CoreCompileInputs.cache
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\bin\Debug\net8.0\TiendaMinorista.Datos.deps.json
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\bin\Debug\net8.0\TiendaMinorista.Datos.dll
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\bin\Debug\net8.0\TiendaMinorista.Datos.pdb
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.csproj.AssemblyReference.cache
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.dll
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\refint\TiendaMinorista.Datos.dll
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\TiendaMinorista.Datos.pdb
+C:\Users\juanb\source\repos\TiendaMinorista.Datos\obj\Debug\net8.0\ref\TiendaMinorista.Datos.dll
